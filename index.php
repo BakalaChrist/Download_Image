@@ -36,7 +36,8 @@ move_uploaded_file($file_tem_loc, $file_store);
 <center style=" font-size:18px" >
 
 <div class="form-control">
-<label>Image à télécharger:</label>
+<label>Image à télécharger: </label>
+<hr>
     <input type="file" name="file" style="color:white;"> 
 </div>
  <br><br>
